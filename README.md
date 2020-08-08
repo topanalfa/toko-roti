@@ -1,5 +1,10 @@
-# jd-360
+# Toko Roti App
 
+## Dashboard Login
+```
+username: admin
+password: admin
+```
 ## Project setup
 ```
 yarn install
